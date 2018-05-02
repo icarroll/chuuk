@@ -87,18 +87,21 @@ li { margin-top: 0.5em;}
 
 .readmore { float: right }
 
-/*
-dl {margin: 0 0 1.5em 0;}
-dt {font-weight: bold;}
-dd {margin-left: 1.5em;}
-*/
 dl {
-    padding: 0.5em;
+    display: grid;
+    grid-template-columns: max-content max-content 1fr;
+    grid-column-gap: 0.5em;
+}
+dt,dd {
+    white-space: nowrap;
+}
+@media only screen and (orientation: portrait) {
+dt,dd {
+    font-size: 2em;
+}
 }
 dt {
-    float: left;
-    clear: left;
-    width: 100px;
+    grid-column: 1;
     text-align: right;
     font-weight: bold;
     color: blue;
@@ -107,7 +110,7 @@ dt::after {
     content: ":";
 }
 dd {
-    margin: 0 0 0 110px;
+    grid-column: 2;
     padding: 0 0 0.5em 0;
 }
 
