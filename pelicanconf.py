@@ -10,9 +10,10 @@ THEME = '/var/www/html/chuuk/themes/blueidea'
 #THEME = '/var/www/html/chuuk/themes/notmyidea'
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extra/favicon.ico', 'extra/square-chuuk-144.png']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/square-chuuk-144.png': {'path': 'square-chuuk-144.png'},
 }
 
 TIMEZONE = 'US/Pacific'
