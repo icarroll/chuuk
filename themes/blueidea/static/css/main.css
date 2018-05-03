@@ -149,6 +149,41 @@ table {margin: .5em auto 1.5em auto; width: 98%;}
 	/* Tfoot */
 	tfoot th {}
 	tfoot td {}
+
+        /* remove margin from multiline text */
+        table div.line-block {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        /* interior borders */
+        table td, table th {
+            border: 1px solid black;
+        }
+        table tr:first-child th {
+            border-top: 0;
+        }
+        table tr:last-child td {
+            border-bottom: 0;
+        }
+        table tr td:first-child, table tr th:first-child {
+            border-left: 0;
+        }
+        table tr td:last-child, table tr th:last-child {
+            border-right: 0;
+        }
+
+        /* bold blue row and column labels */
+        table th, table tr td:first-child {
+            font-weight: bold;
+            color: blue;
+        }
+
+        /* center header text horizontally and vertically */
+        table th {
+            text-align: center;
+            vertical-align: middle;
+        }
 	
 /* HTML5 tags */
 header, section, footer,
