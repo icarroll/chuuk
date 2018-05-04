@@ -1,9 +1,6 @@
 Mosiah 23:18
 ############
 
-:date: 2018-04-29
-:category: Verse
-
 Mosaia sopun rue me unungat, wokisin engon me wanu
 ==================================================
 

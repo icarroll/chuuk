@@ -1,9 +1,6 @@
 2 Nephi 2
 #########
 
-:date: 2018-04-30
-:category: Chapter
-
 Aruwen Nifai sopun ru
 =====================
 

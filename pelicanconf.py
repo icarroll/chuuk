@@ -17,6 +17,7 @@ EXTRA_PATH_METADATA = {
 }
 
 TIMEZONE = 'US/Pacific'
+DEFAULT_DATE = 'fs'
 
 DEFAULT_LANG = u'English'
 

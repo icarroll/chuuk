@@ -1,10 +1,6 @@
 Counting in Chuukese
 ####################
 
-:date: 2018-04-30
-:category: Numbers
-
-
 Number Nouns
 ============
 1

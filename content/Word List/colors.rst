@@ -1,10 +1,6 @@
 Colors
 ======
 
-:date: 2018-05-01
-:category: Word List
-
-
 color
     énúwén / color / énú-
 red
