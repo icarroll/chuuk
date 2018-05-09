@@ -17,14 +17,18 @@ what day of the week
     efitu ikenái
 what time
     kunók fite
+now
+    iei
 _ o'clock
     kunók _
-_:30 (time)
+half past _
     kunók _ esopw
 just past _
     pas _
 just before _
     mwen _
+second
+    sekon
 minute
     minich
 hour
