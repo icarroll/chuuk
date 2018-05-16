@@ -11,12 +11,31 @@ tomorrow
     nesor
 day after tomorrow
     pénnon nesor
-what day of the month
+
+----
+
+morning
+    soor, nesor
+around noon
+    neónowas
+early afternoon
+    neónopan
+late afternoon
+    nekunión
+night
+    pwin, nepwin
+
+----
+
+what day of the month is it
     fite ikenái
-what day of the week
+what day of the week is it
     efitu ikenái
 what time
     kunók fite
+
+----
+
 now
     iei
 _ o'clock
@@ -27,6 +46,9 @@ just past _
     pas _
 just before _
     mwen _
+
+----
+
 second
     sekon
 minute
@@ -42,8 +64,8 @@ month
 year
     ier
 
-Days of the Week
-================
+----
+
 Sunday
     Raninifen / Rááninfen
 Monday
