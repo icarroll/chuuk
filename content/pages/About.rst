@@ -4,9 +4,9 @@ About This Site
 Wiweiti Foosun Chuuk
     Understanding Chuukese
 
-Ran annim!
+Ran annim! Good day!
 
-This site is my collection of notes on understanding the Chuukese language of Micronesia. Here are some places to start:
+This site is my collection of notes on understanding the Chuukese_ language of Micronesia_. Here are some places to start:
 
 * Colors_
 * Counting_
@@ -14,16 +14,22 @@ This site is my collection of notes on understanding the Chuukese language of Mi
 * Possessives_
 * Demonstratives_
 
-I am a member of The Church of Jesus Christ of Latter-Day Saints, often referred to as "Mormons". Included in this site are notes on words and phrases used in our church services and our scriptures, such as The Book of Mormon (Ewe Puken Mormon in Chuukese).
+I am a member of `The Church of Jesus Christ of Latter-Day Saints`_, often referred to as "Mormons_". Included in this site are notes on words and phrases used in our church services; and our scriptures, such as `The Book of Mormon`_ (Ewe Puken Mormon in Chuukese).
 
-* Mormon_
-* Scripture_
+* `Mormon Vocabulary`_
+* `Scripture Notes`_
 
+.. _Chuukese: http://en.wikipedia.org/wiki/Chuukese_language
+.. _Micronesia: http://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
-.. _Colors: {filename}../Word\ List/colors.rst
-.. _Counting: {filename}../Word\ List/numbers.rst
-.. _Pronouns: {filename}../Word\ List/pronouns.rst
-.. _Possessives: {filename}../Word\ List/possessives.rst
-.. _Demonstratives: {filename}../Word\ List/demonstratives.rst
-.. _Mormon: {filename}../Word\ List/mormon.rst
-.. _Scripture: {category}Scripture
+.. _Colors: {filename}/Word\ List/colors.rst
+.. _Counting: {filename}/Word\ List/numbers.rst
+.. _Pronouns: {filename}/Word\ List/pronouns.rst
+.. _Possessives: {filename}/Word\ List/possessives.rst
+.. _Demonstratives: {filename}/Word\ List/demonstratives.rst
+.. _Mormon Vocabulary: {filename}/Word\ List/mormon.rst
+.. _Scripture Notes: {category}Scripture
+
+.. _The Church of Jesus Christ of Latter-Day Saints: http://lds.org
+.. _Mormons: http://mormon.org
+.. _The Book of Mormon: http://www.mormon.org/beliefs/book-of-mormon
