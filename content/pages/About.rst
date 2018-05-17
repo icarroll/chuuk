@@ -1,7 +1,7 @@
 About This Site
 ###############
 
-Wiweiti Foosun Chuuk
+Weweiti Foosun Chuuk
     Understanding Chuukese
 
 Ran annim! Good day!
@@ -19,6 +19,10 @@ I am a member of `The Church of Jesus Christ of Latter-Day Saints`_, often refer
 * `Mormon Vocabulary`_
 * `Scripture Notes`_
 
+----
+
+Feel free to contact me with questions or comments about this site: |email|
+
 .. _Chuukese: http://en.wikipedia.org/wiki/Chuukese_language
 .. _Micronesia: http://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
@@ -33,3 +37,5 @@ I am a member of `The Church of Jesus Christ of Latter-Day Saints`_, often refer
 .. _The Church of Jesus Christ of Latter-Day Saints: http://lds.org
 .. _Mormons: http://mormon.org
 .. _The Book of Mormon: http://www.mormon.org/beliefs/book-of-mormon
+
+.. |email| image:: {filename}/extra/email_address.svg

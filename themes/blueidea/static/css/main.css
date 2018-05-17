@@ -67,6 +67,19 @@ p { margin-top: 1em;
 strong, b {font-weight: bold;}
 em, i {font-style: italic;}
 
+/* svg */
+p object {
+    position: relative;
+    top: 4.5px;
+    height: 1.25em;
+}
+@media only screen and (orientation: portrait) {
+    p object {
+        top: 8px;
+        height: 2.5em;
+    }
+}
+
 /* Lists */
 ul {
 	list-style: outside disc;
