@@ -8,6 +8,7 @@ Ran annim! Good day!
 
 This site is my collection of notes on understanding the Chuukese_ language of Micronesia_. Here are some places to start:
 
+* `Useful Phrases`_
 * Colors_
 * Counting_
 * Pronouns_
@@ -26,6 +27,7 @@ Feel free to contact me with questions or comments about this site: |email|
 .. _Chuukese: http://en.wikipedia.org/wiki/Chuukese_language
 .. _Micronesia: http://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
+.. _Useful Phrases: {filename}/Word\ List/phrases.rst
 .. _Colors: {filename}/Word\ List/colors.rst
 .. _Counting: {filename}/Word\ List/numbers.rst
 .. _Pronouns: {filename}/Word\ List/pronouns.rst
