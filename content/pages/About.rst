@@ -12,6 +12,7 @@ This site is my collection of notes on understanding the Chuukese_ language of M
 * Colors_
 * Counting_
 * Pronouns_
+* Tenses_
 * Possessives_
 * Demonstratives_
 
@@ -31,6 +32,7 @@ Feel free to contact me with questions or comments about this site: |email|
 .. _Colors: {filename}/Word\ List/colors.rst
 .. _Counting: {filename}/Word\ List/numbers.rst
 .. _Pronouns: {filename}/Word\ List/pronouns.rst
+.. _Tenses: {filename}/Word\ List/tenses.rst
 .. _Possessives: {filename}/Word\ List/possessives.rst
 .. _Demonstratives: {filename}/Word\ List/demonstratives.rst
 .. _Mormon Vocabulary: {filename}/Word\ List/mormon.rst
