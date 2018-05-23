@@ -7,26 +7,42 @@ apostle
     aposen
 baptise
     papatais
+bishop
+    pisop
 bless
     efiochu
 Book of Mormon
     Puken Mormon
+charity
+    tong ennet
 church
     mwichefen
+commandment
+    annuk
+consecrated oil
+    no mi epinipin
 deacon
     dikon
 elder
-    ender
+    elter
 eternal
     esemuch
 faith
     nuku
+General Conference
+    Mwichenapen Mwichefen
 Gospel
     Kapas Annim
 Heavenly Father
     Sam Won Nang
 Holy Ghost
-    Ngun Mi Fen
+    Ngun Mi Fel
+hope
+    apinukunuk
+house of worship
+    imwen fen
+humble
+    tipetekison
 Jesus Christ
     Jises Kraist
 Lord
@@ -65,17 +81,23 @@ Savior
     Chon Amanau
 scripture
     pukefen
+sermon
+    afanafan
 sin
     tipis
+sing
+    kon
 Sunday
     Raaninifen
+take
+    angei
 teach
     aiti
 teacher
     sense
 temple
-    tempen
+    tempel
 testimony
-    pwarata
+    kapasen pwarata
 worship meeting
     fen

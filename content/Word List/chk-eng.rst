@@ -21,6 +21,8 @@ annuk
     rule, law
 annuku
     make a rule/law, decree
+anongonong won
+    according to
 aramas
     person, people
 ariaffour
@@ -58,13 +60,13 @@ ekis me ekis
 ekkoch
     some
 emon me emon
-    one by one, one person at a time, each person
+    one by one, each person
 ennet
     true
 eppet
     obstacle, block
 etiwa
-    decline, refuse, turn down
+    receive
 fan
     under him/her/it
 fan iten
@@ -238,11 +240,11 @@ nupwen
 nussun
     remainder of
 ono
-    taken?
+    taken
 opetiw
     hide down
 pekin
-    ?
+    nature of, manner of
 petewen
     tree
 pochokun
@@ -261,6 +263,8 @@ pwan
     also
 pwapwa
     happy, rejoice
+pwar
+    show
 pwaracho
     brave strength
 pwe
